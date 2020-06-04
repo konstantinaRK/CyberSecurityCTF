@@ -26,3 +26,9 @@
 
 # Question 2
 Αφού τελειώσαμε με την πρώτη ερώτηση, το στοιχείο που δεν είχαμε ακολουθήσει ήταν αυτό που βρίσκεται παραπάνω σε bold, οπότε ξεκινήσαμε από εκεί.
+* Χρησιμοποιήσαμε το username admin για να δούμε αν υπάρχει και υπήρχε! (Το καταλάβαμε γιατί έβγαλε invalid password, όχι invalid user, όπως πριν.
+
+
+## Not used
+* Χρήση port 443 για να βρούμε την ip των sites (τοποθεσία Γιώργου). (https://www.netsparker.com/blog/web-security/exposing-public-ips-tor-services-through-ssl-certificates/)
+* "Σπάσιμο" strcmp στο server από το github. Το εγκαταλείψαμε καθώς γίνεται hash σε συγκεκριμένο μέγεθος string, το οποίο δεν προκαλεί overflow.
